@@ -285,4 +285,4 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,intellij,angular,node4
 
-package-lock.json/
+*.json
